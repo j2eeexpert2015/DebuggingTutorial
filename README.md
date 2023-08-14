@@ -25,4 +25,5 @@ The breakpoint will be hit when the iteration count matches the given number
 ## Exception Breakpoint
 In the debug mode, breakpoints tab click on   
 Add Java Exception breakpoint -> Choose an Exception (Arithmetic Exception) -> Click OK  
-Code will pause right at the line that is about to through the exception.
+The code will pause right at the line that is about to through the exception.  
+Note: Right Click -> Breakpoint properties ->Select "SubClasses of this exception"
