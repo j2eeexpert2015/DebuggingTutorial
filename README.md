@@ -35,4 +35,6 @@ Right-click on the breakpoint placed at the method signature -> Breakpoint prope
 ## Drop To Frame
 This allows you to drop to a previous frame in the call stack seen in debug pane. It is like reverting to an earlier stack by stopping the program and re-running it.
 
-
+## Step Filtering
+This is used to avoid stepping into the standard libraries.  
+Windows->Preferences->Debug->StepFiltering->Checkbox (Use Step Filters)
