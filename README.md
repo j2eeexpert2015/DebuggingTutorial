@@ -1,5 +1,10 @@
 # EclipseDebugging
 Keynotes for a quick recap.
+
+## Debug Shell
+Write a piece of code in debug shell (Window->Show View->Debug Shell   
+Select the written code-> Execute Selected Text will be enabled to execute it.  
+Also display the result will be enabled to check the result.  
 ## Detail Formatter
 This is used to view the objects while inspecting with explicit values and not object references.  
 In the example for DebugPersonDetailsIteration.java  
