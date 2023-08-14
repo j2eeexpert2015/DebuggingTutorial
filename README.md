@@ -1,5 +1,5 @@
 # EclipseDebugging
-Key notes for a quick recap.
+Keynotes for a quick recap.
 ## Detail Formatter
 This is used to view the objects while inspecting with clear values and not object references.  
 In the example for DebugPersonDetailsIteration.java  
@@ -28,3 +28,6 @@ In the debug mode, breakpoints tab click on
 Add Java Exception breakpoint -> Choose an Exception (Arithmetic Exception) -> Click OK  
 The code will pause right at the line that is about to through the exception.  
 Note: Right Click -> Breakpoint properties ->Select "SubClasses of this exception"
+
+## Method Breakpoint
+Right-click on the break point placed at the method signature -> Breakpoint properties->Select Entry or Exit check boxes based on where you want your code to pause.
