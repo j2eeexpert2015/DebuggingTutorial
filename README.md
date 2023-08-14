@@ -1,4 +1,5 @@
 # EclipseDebugging
+Key notes for a quick recap.
 ## Detail Formatter
 This is used to view the objects while inspecting with clear values and not object references.  
 In the example for DebugPersonDetailsIteration.java  
