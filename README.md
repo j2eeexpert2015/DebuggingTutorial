@@ -44,6 +44,9 @@ This allows you to drop to a previous frame in the call stack seen in debug pane
 ## Step Filtering
 This is used to avoid stepping into the standard libraries.  
 Windows->Preferences->Debug->StepFiltering->Checkbox (Use Step Filters)
+
+## Select enclosing element
+ALT+SHIFT+UP/DOWN
 ## References
 https://github.com/j2eeexpert2015/DebuggingTutorial
 https://eclipsetutorial.sourceforge.net/debugger.html
