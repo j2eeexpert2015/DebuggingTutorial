@@ -1,4 +1,4 @@
-# EclipseDebugging
+# Eclipse Debugging
 Keynotes for a quick recap.
 
 ## Debug Shell
