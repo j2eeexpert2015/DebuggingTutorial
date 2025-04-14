@@ -17,7 +17,7 @@ Use these one-liners in Eclipse **Detail Formatter** or **Display View** to pret
 
 ```java
 // Jackson
-new com.fasterxml.jackson.databind.ObjectMapper().writerWithDefaultPrettyPrinter().writeValueAsString(this);
+new com.fasterxml.jackson.databind.ObjectMapper().writeValueAsString(this);
 
 // Gson
 new com.google.gson.GsonBuilder().setPrettyPrinting().create().toJson(this);
@@ -25,7 +25,7 @@ new com.google.gson.GsonBuilder().setPrettyPrinting().create().toJson(this);
 
 ---
 
-## 🎓 Part of the Full Udemy Course
+## 🎓 This Repository is part of the following Udemy Course
 
 [![Eclipse Debugging Techniques And Tricks](https://img-c.udemycdn.com/course/480x270/417118_3afa_4.jpg)](https://www.udemy.com/course/eclipse-debugging-techniques-and-tricks)
 
