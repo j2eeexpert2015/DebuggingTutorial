@@ -32,6 +32,8 @@ new com.google.gson.GsonBuilder().setPrettyPrinting().create().toJson(this);
 ➡️ **[Eclipse Debugging Techniques And Tricks](https://www.udemy.com/course/eclipse-debugging-techniques-and-tricks/)**  
 This is a complete course to master Eclipse IDE debugging—from beginner-friendly tips to advanced real-world debugging techniques.
 
+If you'd like **Discount Coupons** for any of the courses, feel free to **email** or **message me on Slack**!
+
 ---
 
 ## 💬 Join Our Developer Community
@@ -39,8 +41,6 @@ This is a complete course to master Eclipse IDE debugging—from beginner-friend
 - 👉 [Join the Slack Group](https://join.slack.com/t/learningfromexp/shared_invite/zt-1fnksxgd0-_jOdmIq2voEeMtoindhWrA)  
 - 📢 After joining, go to the `#java-debugging-with-intellij-idea-udemy` channel  
 - 📧 Email: **j2eeexpert2015@gmail.com** (for queries or coupon requests)  
-
-If you'd like **Discount Coupons** for any of the courses, feel free to **email** or **message me on Slack**!
 
 ---
 
